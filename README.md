@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SchulteDaniel
-- 👀 I’m interested in social networks, gaming, PHP, HTML and Java
-- 🌱 I’m currently studying ...
+- 👀 I’m interested in Java, PHP, HTML, C#, C++ social networks & gaming,
+- 🌱 I’m currently studying Software Development in Dortmund (Germany) ...
 - 💞️ I’m looking to collaborate on future technologies and expanding in the cloud infrastructure
 - 📫 How to reach me: mailto:schulte.it@outlook.com
 
